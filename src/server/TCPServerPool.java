@@ -13,43 +13,149 @@ import java.io.OutputStream;
 import java.io.PrintWriter;
 import java.net.ServerSocket;
 import java.net.Socket;
+import java.security.MessageDigest;
+import java.security.NoSuchAlgorithmException;
+import java.sql.Timestamp;
+import java.util.Date;
 import java.util.Iterator;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
+import java.util.concurrent.atomic.AtomicInteger;
 import java.util.logging.FileHandler;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.logging.SimpleFormatter;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+import org.apache.commons.codec.digest.DigestUtils;
+
 
 import jdk.nashorn.internal.runtime.regexp.joni.Regex;
+import sun.misc.BASE64Encoder;
 
 public class TCPServerPool implements Runnable{
 
-	private Logger LOGGER;
+	private static Logger LOGGER;
 	private Socket socketClient;
 	private PrintWriter sOutput;
 	private BufferedReader sInput;
+	private File myFile;
+	private long startTime;
+	private long endTime;
 
-	private static final String DATA_PATH = "./data/server/";
-	private static final String LOG_PATH = "./log/";
+
+	private static AtomicInteger nClients =  new AtomicInteger(0);
+	private static Object monitor = new Object();
+	private static int nConcurrentClients;
+	private static String filename;
+	private static String shaChecksum;
+
 	private static final int PORT = 3030;
 
-	private static final String LIST = "list";
-	private static final String SEND_FILE = "get";
-	private static final String VALID_COMMAND_REGEX = "(" + LIST + "|" + SEND_FILE + ")" + "(\s)?" + "(.*\\..*)?";
-
-	private static final String FILE_SUCCESFULLY_SENT = "File succesfully sent";
-
-	private static final String INVALID_COMMAND = "Invalid command ";
-	private static final String FILE_NOT_FOUND = "File not found ";
+	private static final String READY = "ready";
+	private static final String FINE = "Fine";
 
 	public TCPServerPool(Socket socketClient) {
 		this.socketClient = socketClient;
-		this.LOGGER = Logger.getLogger("Client " + socketClient.getRemoteSocketAddress().toString());
+		try {
+			sOutput = new PrintWriter(socketClient.getOutputStream(), true);
+			sInput = new BufferedReader (new InputStreamReader(socketClient.getInputStream()));
+			LOGGER.log(Level.INFO, "Connected to: " + socketClient.getRemoteSocketAddress());
+		} catch (IOException e) {
+			e.printStackTrace();
+			LOGGER.log(Level.WARNING, "Cannot connect to: " + socketClient.getRemoteSocketAddress());
+		}
+	}
 
-		String pathLog = LOG_PATH + "Client.log" ;
+	public static void list() {
+		File directory = new File("./");
+		String[] pathnames = directory.list();
+		StringBuilder m = new StringBuilder();
+		for (String pathname : pathnames) {
+			m.append(pathname + "\n");
+		}
+		System.out.println(m.toString());
+	}
+
+	public void sendFile(String filename) {
+		myFile = new File(filename);
+		byte[] mybytearray = new byte[8192];
+		try {
+			FileInputStream fis = new FileInputStream(myFile);
+			BufferedInputStream bis = new BufferedInputStream(fis);
+			DataInputStream dis = new DataInputStream(bis);
+			OutputStream os = socketClient.getOutputStream();
+			DataOutputStream dos = new DataOutputStream(os);
+			//dos.writeUTF(myFile.getName());     
+			dos.writeLong(myFile.length());
+			int read;
+			while((read = dis.read(mybytearray)) != -1){
+				dos.write(mybytearray, 0, read);
+			}
+			dos.flush();
+			//dos.close();
+			fis.close();
+			bis.close();
+			dis.close();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+	}
+
+	@Override
+	public void run() {
+		try {
+			System.out.println(shaChecksum);
+			sOutput.println(shaChecksum);
+			sOutput.println(filename);
+			String inputLine = sInput.readLine();
+
+			if (inputLine.startsWith(READY)) {
+				nClients.addAndGet(1);
+				LOGGER.log(Level.INFO, "CLIENT: " + socketClient.getRemoteSocketAddress() + ". Client is ready for file tranfer.");
+			}
+			if (nClients.get()>=nConcurrentClients) {
+				for (int i = 0; i < nConcurrentClients; i++) {
+					synchronized (monitor) {
+						monitor.notify();
+					}
+				}
+			}else {
+				synchronized (monitor) {
+					monitor.wait();
+				}
+			}
+			startTime = System.currentTimeMillis();
+			LOGGER.log(Level.INFO, "CLIENT: " + socketClient.getRemoteSocketAddress() + ". Starting to send file " + filename);
+			sendFile(filename);
+			LOGGER.log(Level.INFO, "CLIENT: " + socketClient.getRemoteSocketAddress() + ". Finished to send file " + filename);
+			inputLine = sInput.readLine();
+			if (inputLine!= null && inputLine.equals(FINE)) {
+				endTime = System.currentTimeMillis();
+				long transferTime = (endTime-startTime)/1000;
+				LOGGER.log(Level.INFO, "CLIENT: " + socketClient.getRemoteSocketAddress() + ". Succesfull file transfer" + "\nFilename: " + filename + "\nFile size: " + myFile.length() + " bytes" + "\nTransfer time: " + transferTime + "seconds");
+			}else {
+				LOGGER.log(Level.WARNING, "CLIENT: " + socketClient.getRemoteSocketAddress() + ". Unsuccesfull file transfer.");
+			}
+
+
+		} catch (IOException e) {
+			e.printStackTrace();
+		} catch (InterruptedException e) {
+			e.printStackTrace();
+		}
+
+
+	}
+
+
+	public static void main(String[] args) throws IOException {
+
+		Date date = new Date();
+		Timestamp ts = new Timestamp(date.getTime());
+		LOGGER = Logger.getLogger("Client " + ts);
+
+		String pathLog = "Client" + ts.toString().replaceAll(":", " ") + ".log" ;
 		try {      
 			FileHandler fhandler = new FileHandler(pathLog);  
 			LOGGER.addHandler(fhandler);
@@ -62,86 +168,16 @@ public class TCPServerPool implements Runnable{
 			e.printStackTrace();  
 		}      
 
-		try {
-			sOutput = new PrintWriter(socketClient.getOutputStream(), true);
-			sInput = new BufferedReader (new InputStreamReader(socketClient.getInputStream()));
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
-	}
+		System.out.println("Lista de archivos disponibles:");
+		list();
+		System.out.println("Escriba el nombre del archivo:");
+		BufferedReader stdIn = new BufferedReader(new InputStreamReader(System.in));
+		filename = stdIn.readLine();
+		shaChecksum = DigestUtils.sha256Hex(new FileInputStream(filename));
 
-	public void list() {
-		File directory = new File(DATA_PATH);
-		String[] pathnames = directory.list();
-		StringBuilder m = new StringBuilder();
-		for (String pathname : pathnames) {
-			m.append(pathname + "\n");
-		}
-		sOutput.println(m.toString());
-	}
-
-	public void sendFile(String filename) {
-		File myFile = new File(DATA_PATH + filename);
-		byte[] mybytearray = new byte[8192];
-		try {
-			FileInputStream fis = new FileInputStream(myFile);
-			BufferedInputStream bis = new BufferedInputStream(fis);
-			DataInputStream dis = new DataInputStream(bis);
-			OutputStream os = socketClient.getOutputStream();
-			DataOutputStream dos = new DataOutputStream(os);
-			dos.writeUTF(myFile.getName());     
-			dos.writeLong(mybytearray.length);
-			int read;
-			while((read = dis.read(mybytearray)) != -1){
-				dos.write(mybytearray, 0, read);
-			}
-			dos.flush();
-			dos.close();
-			fis.close();
-			bis.close();
-			dis.close();
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
-		sOutput.println(FILE_SUCCESFULLY_SENT);
-	}
-
-	@Override
-	public void run() {
-		Pattern regex = Pattern.compile(VALID_COMMAND_REGEX);
-		try {
-			String inputLine = sInput.readLine();
-			System.out.println(inputLine);
-			Matcher m = regex.matcher(inputLine);
-			if (m.matches()) {
-				String command = m.group(1);
-				System.out.println("1" + command);
-				switch (command) {
-				case LIST:
-					list();
-					break;
-				case SEND_FILE:
-					System.out.println("Entré");
-					String filename = m.group(3);
-					sendFile(filename);
-					break;
-				default:
-					break;
-				}
-
-			}
-			else {
-				LOGGER.log(Level.INFO, INVALID_COMMAND + inputLine);
-				sOutput.println(INVALID_COMMAND + inputLine);
-			}
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
-
-
-	}
-
-	public static void main(String[] args) {
+		System.out.println("Escriba el número de clientes en simultaneo:");
+		nConcurrentClients = Integer.parseInt(stdIn.readLine());
+		System.out.println("Servidor activo.");
 		int nThreads = 25;
 		ExecutorService pool = Executors.newFixedThreadPool(nThreads);
 		ServerSocket ss = null;
