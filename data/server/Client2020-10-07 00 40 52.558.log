@@ -1,0 +1,369 @@
+Oct 07, 2020 12:41:37 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:3186
+Oct 07, 2020 12:41:37 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:3188
+Oct 07, 2020 12:41:37 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3186. Client is ready for file tranfer.
+Oct 07, 2020 12:41:38 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3188. Client is ready for file tranfer.
+Oct 07, 2020 12:41:38 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:3197
+Oct 07, 2020 12:41:38 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:3157
+Oct 07, 2020 12:41:38 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3197. Client is ready for file tranfer.
+Oct 07, 2020 12:41:38 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:3163
+Oct 07, 2020 12:41:39 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3157. Client is ready for file tranfer.
+Oct 07, 2020 12:41:39 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:3164
+Oct 07, 2020 12:41:39 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3163. Client is ready for file tranfer.
+Oct 07, 2020 12:41:39 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3186. Starting to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:39 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3186. Finished to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:39 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3163. Starting to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:39 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3157. Starting to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:39 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3197. Starting to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:39 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3188. Starting to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:39 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3157. Finished to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:39 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3197. Finished to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:39 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3188. Finished to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:39 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3163. Finished to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:39 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2176
+Oct 07, 2020 12:41:39 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3163. Succesfull file transfer
+Filename: Sesión 0204.mp4
+File size: 134 bytes
+Transfer time: 0seconds
+Oct 07, 2020 12:41:39 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3164. Client is ready for file tranfer.
+Oct 07, 2020 12:41:39 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3164. Starting to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:39 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3164. Finished to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:39 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3186. Succesfull file transfer
+Filename: Sesión 0204.mp4
+File size: 134 bytes
+Transfer time: 0seconds
+Oct 07, 2020 12:41:39 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3188. Succesfull file transfer
+Filename: Sesión 0204.mp4
+File size: 134 bytes
+Transfer time: 0seconds
+Oct 07, 2020 12:41:39 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3197. Succesfull file transfer
+Filename: Sesión 0204.mp4
+File size: 134 bytes
+Transfer time: 0seconds
+Oct 07, 2020 12:41:39 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3157. Succesfull file transfer
+Filename: Sesión 0204.mp4
+File size: 134 bytes
+Transfer time: 0seconds
+Oct 07, 2020 12:41:39 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2176. Client is ready for file tranfer.
+Oct 07, 2020 12:41:39 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2176. Starting to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:39 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2176. Finished to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:39 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3164. Succesfull file transfer
+Filename: Sesión 0204.mp4
+File size: 134 bytes
+Transfer time: 0seconds
+Oct 07, 2020 12:41:40 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2180
+Oct 07, 2020 12:41:40 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2176. Succesfull file transfer
+Filename: Sesión 0204.mp4
+File size: 134 bytes
+Transfer time: 0seconds
+Oct 07, 2020 12:41:40 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2185
+Oct 07, 2020 12:41:40 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2180. Client is ready for file tranfer.
+Oct 07, 2020 12:41:40 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2180. Starting to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:40 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2180. Finished to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:40 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2185. Client is ready for file tranfer.
+Oct 07, 2020 12:41:40 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2185. Starting to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:40 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2185. Finished to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:40 AM server.TCPServerPool run
+WARNING: CLIENT: /181.61.206.244:2180. Unsuccesfull file transfer.
+Oct 07, 2020 12:41:41 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2185. Succesfull file transfer
+Filename: Sesión 0204.mp4
+File size: 134 bytes
+Transfer time: 0seconds
+Oct 07, 2020 12:41:41 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2187
+Oct 07, 2020 12:41:41 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2197
+Oct 07, 2020 12:41:42 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2188
+Oct 07, 2020 12:41:42 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2201
+Oct 07, 2020 12:41:42 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2197. Client is ready for file tranfer.
+Oct 07, 2020 12:41:42 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2187. Client is ready for file tranfer.
+Oct 07, 2020 12:41:42 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2187. Starting to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:42 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2187. Finished to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:42 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2197. Starting to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:42 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2189
+Oct 07, 2020 12:41:42 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2197. Finished to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:42 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2188. Client is ready for file tranfer.
+Oct 07, 2020 12:41:42 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2188. Starting to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:42 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2188. Finished to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:42 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2202
+Oct 07, 2020 12:41:42 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2188. Succesfull file transfer
+Filename: Sesión 0204.mp4
+File size: 134 bytes
+Transfer time: 0seconds
+Oct 07, 2020 12:41:42 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2201. Client is ready for file tranfer.
+Oct 07, 2020 12:41:42 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2201. Starting to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:42 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2201. Finished to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:42 AM server.TCPServerPool run
+WARNING: CLIENT: /181.61.206.244:2187. Unsuccesfull file transfer.
+Oct 07, 2020 12:41:42 AM server.TCPServerPool run
+WARNING: CLIENT: /181.61.206.244:2197. Unsuccesfull file transfer.
+Oct 07, 2020 12:41:42 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2195
+Oct 07, 2020 12:41:42 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2189. Client is ready for file tranfer.
+Oct 07, 2020 12:41:42 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2189. Starting to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:42 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2189. Finished to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:42 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2202. Client is ready for file tranfer.
+Oct 07, 2020 12:41:42 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2202. Starting to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:42 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2202. Finished to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:43 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2203
+Oct 07, 2020 12:41:43 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2189. Succesfull file transfer
+Filename: Sesión 0204.mp4
+File size: 134 bytes
+Transfer time: 0seconds
+Oct 07, 2020 12:41:43 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2195. Client is ready for file tranfer.
+Oct 07, 2020 12:41:43 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2195. Starting to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:43 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2195. Finished to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:43 AM server.TCPServerPool run
+WARNING: CLIENT: /181.61.206.244:2201. Unsuccesfull file transfer.
+Oct 07, 2020 12:41:43 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2203. Client is ready for file tranfer.
+Oct 07, 2020 12:41:43 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2203. Starting to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:43 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2203. Finished to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:43 AM server.TCPServerPool run
+WARNING: CLIENT: /181.61.206.244:2202. Unsuccesfull file transfer.
+Oct 07, 2020 12:41:43 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2195. Succesfull file transfer
+Filename: Sesión 0204.mp4
+File size: 134 bytes
+Transfer time: 0seconds
+Oct 07, 2020 12:41:43 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2208
+Oct 07, 2020 12:41:43 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2203. Succesfull file transfer
+Filename: Sesión 0204.mp4
+File size: 134 bytes
+Transfer time: 0seconds
+Oct 07, 2020 12:41:44 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2208. Client is ready for file tranfer.
+Oct 07, 2020 12:41:44 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2208. Starting to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:44 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2208. Finished to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:44 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2207
+Oct 07, 2020 12:41:44 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2208. Succesfull file transfer
+Filename: Sesión 0204.mp4
+File size: 134 bytes
+Transfer time: 0seconds
+Oct 07, 2020 12:41:44 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2207. Client is ready for file tranfer.
+Oct 07, 2020 12:41:44 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2207. Starting to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:44 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2207. Finished to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:45 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2215
+Oct 07, 2020 12:41:45 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2209
+Oct 07, 2020 12:41:45 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2215. Client is ready for file tranfer.
+Oct 07, 2020 12:41:45 AM server.TCPServerPool run
+WARNING: CLIENT: /181.61.206.244:2207. Unsuccesfull file transfer.
+Oct 07, 2020 12:41:45 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2215. Starting to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:45 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2215. Finished to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:45 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2209. Client is ready for file tranfer.
+Oct 07, 2020 12:41:45 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2209. Starting to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:45 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2209. Finished to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:45 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2216
+Oct 07, 2020 12:41:45 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2213
+Oct 07, 2020 12:41:45 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2209. Succesfull file transfer
+Filename: Sesión 0204.mp4
+File size: 134 bytes
+Transfer time: 0seconds
+Oct 07, 2020 12:41:45 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2215. Succesfull file transfer
+Filename: Sesión 0204.mp4
+File size: 134 bytes
+Transfer time: 0seconds
+Oct 07, 2020 12:41:45 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2214
+Oct 07, 2020 12:41:45 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2213. Client is ready for file tranfer.
+Oct 07, 2020 12:41:45 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2213. Starting to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:45 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2213. Finished to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:45 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2216. Client is ready for file tranfer.
+Oct 07, 2020 12:41:45 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2216. Starting to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:45 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2216. Finished to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:46 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2214. Client is ready for file tranfer.
+Oct 07, 2020 12:41:46 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2214. Starting to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:46 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2214. Finished to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:46 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2216. Succesfull file transfer
+Filename: Sesión 0204.mp4
+File size: 134 bytes
+Transfer time: 0seconds
+Oct 07, 2020 12:41:46 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2213. Succesfull file transfer
+Filename: Sesión 0204.mp4
+File size: 134 bytes
+Transfer time: 0seconds
+Oct 07, 2020 12:41:46 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2214. Succesfull file transfer
+Filename: Sesión 0204.mp4
+File size: 134 bytes
+Transfer time: 0seconds
+Oct 07, 2020 12:41:46 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2220
+Oct 07, 2020 12:41:46 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2220. Client is ready for file tranfer.
+Oct 07, 2020 12:41:46 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2217
+Oct 07, 2020 12:41:46 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2220. Starting to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:46 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2220. Finished to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:47 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2218
+Oct 07, 2020 12:41:47 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2217. Client is ready for file tranfer.
+Oct 07, 2020 12:41:47 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2217. Starting to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:47 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2217. Finished to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:47 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2220. Succesfull file transfer
+Filename: Sesión 0204.mp4
+File size: 134 bytes
+Transfer time: 0seconds
+Oct 07, 2020 12:41:47 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2218. Client is ready for file tranfer.
+Oct 07, 2020 12:41:47 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2218. Starting to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:47 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2218. Finished to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:47 AM server.TCPServerPool run
+WARNING: CLIENT: /181.61.206.244:2217. Unsuccesfull file transfer.
+Oct 07, 2020 12:41:47 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2218. Succesfull file transfer
+Filename: Sesión 0204.mp4
+File size: 134 bytes
+Transfer time: 0seconds
+Oct 07, 2020 12:41:47 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2222
+Oct 07, 2020 12:41:48 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2223
+Oct 07, 2020 12:41:48 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2222. Client is ready for file tranfer.
+Oct 07, 2020 12:41:48 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2222. Starting to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:48 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2222. Finished to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:48 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2223. Client is ready for file tranfer.
+Oct 07, 2020 12:41:48 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2223. Starting to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:48 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2223. Finished to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:48 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2229
+Oct 07, 2020 12:41:48 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2222. Succesfull file transfer
+Filename: Sesión 0204.mp4
+File size: 134 bytes
+Transfer time: 0seconds
+Oct 07, 2020 12:41:48 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2223. Succesfull file transfer
+Filename: Sesión 0204.mp4
+File size: 134 bytes
+Transfer time: 0seconds
+Oct 07, 2020 12:41:48 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2229. Client is ready for file tranfer.
+Oct 07, 2020 12:41:48 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2229. Starting to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:48 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2229. Finished to send file Sesión 0204.mp4
+Oct 07, 2020 12:41:48 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2229. Succesfull file transfer
+Filename: Sesión 0204.mp4
+File size: 134 bytes
+Transfer time: 0seconds

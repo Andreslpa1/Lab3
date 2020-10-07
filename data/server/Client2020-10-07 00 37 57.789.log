@@ -1,0 +1,321 @@
+Oct 07, 2020 12:38:13 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2184
+Oct 07, 2020 12:38:13 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2186
+Oct 07, 2020 12:38:14 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2184. Client is ready for file tranfer.
+Oct 07, 2020 12:38:14 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2186. Client is ready for file tranfer.
+Oct 07, 2020 12:38:14 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2187
+Oct 07, 2020 12:38:14 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2188
+Oct 07, 2020 12:38:15 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2189
+Oct 07, 2020 12:38:15 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2187. Client is ready for file tranfer.
+Oct 07, 2020 12:38:15 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2188. Client is ready for file tranfer.
+Oct 07, 2020 12:38:15 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2189. Client is ready for file tranfer.
+Oct 07, 2020 12:38:15 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2184. Starting to send file Informe.pdf
+Oct 07, 2020 12:38:15 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2186. Starting to send file Informe.pdf
+Oct 07, 2020 12:38:15 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2187. Starting to send file Informe.pdf
+Oct 07, 2020 12:38:15 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2188. Starting to send file Informe.pdf
+Oct 07, 2020 12:38:15 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2189. Starting to send file Informe.pdf
+Oct 07, 2020 12:38:15 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2190
+Oct 07, 2020 12:38:15 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2186. Finished to send file Informe.pdf
+Oct 07, 2020 12:38:15 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2184. Finished to send file Informe.pdf
+Oct 07, 2020 12:38:15 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2188. Finished to send file Informe.pdf
+Oct 07, 2020 12:38:15 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2194
+Oct 07, 2020 12:38:15 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2187. Finished to send file Informe.pdf
+Oct 07, 2020 12:38:15 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2190. Client is ready for file tranfer.
+Oct 07, 2020 12:38:15 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2190. Starting to send file Informe.pdf
+Oct 07, 2020 12:38:16 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2194. Client is ready for file tranfer.
+Oct 07, 2020 12:38:16 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2194. Starting to send file Informe.pdf
+Oct 07, 2020 12:38:16 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2195
+Oct 07, 2020 12:38:16 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2190. Finished to send file Informe.pdf
+Oct 07, 2020 12:38:16 AM server.TCPServerPool run
+WARNING: CLIENT: /181.61.206.244:2186. Unsuccesfull file transfer.
+Oct 07, 2020 12:38:16 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2195. Client is ready for file tranfer.
+Oct 07, 2020 12:38:16 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2195. Starting to send file Informe.pdf
+Oct 07, 2020 12:38:16 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2194. Finished to send file Informe.pdf
+Oct 07, 2020 12:38:16 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2198
+Oct 07, 2020 12:38:16 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2199
+Oct 07, 2020 12:38:16 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2195. Finished to send file Informe.pdf
+Oct 07, 2020 12:38:16 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2198. Client is ready for file tranfer.
+Oct 07, 2020 12:38:16 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2198. Starting to send file Informe.pdf
+Oct 07, 2020 12:38:16 AM server.TCPServerPool run
+WARNING: CLIENT: /181.61.206.244:2187. Unsuccesfull file transfer.
+Oct 07, 2020 12:38:16 AM server.TCPServerPool run
+WARNING: CLIENT: /181.61.206.244:2184. Unsuccesfull file transfer.
+Oct 07, 2020 12:38:17 AM server.TCPServerPool run
+WARNING: CLIENT: /181.61.206.244:2194. Unsuccesfull file transfer.
+Oct 07, 2020 12:38:17 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2199. Client is ready for file tranfer.
+Oct 07, 2020 12:38:17 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2199. Starting to send file Informe.pdf
+Oct 07, 2020 12:38:17 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2198. Finished to send file Informe.pdf
+Oct 07, 2020 12:38:17 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2201
+Oct 07, 2020 12:38:17 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2189. Finished to send file Informe.pdf
+Oct 07, 2020 12:38:17 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2199. Finished to send file Informe.pdf
+Oct 07, 2020 12:38:17 AM server.TCPServerPool run
+WARNING: CLIENT: /181.61.206.244:2195. Unsuccesfull file transfer.
+Oct 07, 2020 12:38:17 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2201. Client is ready for file tranfer.
+Oct 07, 2020 12:38:17 AM server.TCPServerPool run
+WARNING: CLIENT: /181.61.206.244:2188. Unsuccesfull file transfer.
+Oct 07, 2020 12:38:17 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2201. Starting to send file Informe.pdf
+Oct 07, 2020 12:38:17 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2202
+Oct 07, 2020 12:38:17 AM server.TCPServerPool run
+WARNING: CLIENT: /181.61.206.244:2190. Unsuccesfull file transfer.
+Oct 07, 2020 12:38:17 AM server.TCPServerPool run
+WARNING: CLIENT: /181.61.206.244:2198. Unsuccesfull file transfer.
+Oct 07, 2020 12:38:17 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2202. Client is ready for file tranfer.
+Oct 07, 2020 12:38:17 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2201. Finished to send file Informe.pdf
+Oct 07, 2020 12:38:17 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2202. Starting to send file Informe.pdf
+Oct 07, 2020 12:38:18 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2203
+Oct 07, 2020 12:38:18 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2204
+Oct 07, 2020 12:38:18 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2202. Finished to send file Informe.pdf
+Oct 07, 2020 12:38:18 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2203. Client is ready for file tranfer.
+Oct 07, 2020 12:38:18 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2203. Starting to send file Informe.pdf
+Oct 07, 2020 12:38:18 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2204. Client is ready for file tranfer.
+Oct 07, 2020 12:38:18 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2204. Starting to send file Informe.pdf
+Oct 07, 2020 12:38:18 AM server.TCPServerPool run
+WARNING: CLIENT: /181.61.206.244:2189. Unsuccesfull file transfer.
+Oct 07, 2020 12:38:18 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2203. Finished to send file Informe.pdf
+Oct 07, 2020 12:38:18 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2204. Finished to send file Informe.pdf
+Oct 07, 2020 12:38:18 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2205
+Oct 07, 2020 12:38:18 AM server.TCPServerPool run
+WARNING: CLIENT: /181.61.206.244:2201. Unsuccesfull file transfer.
+Oct 07, 2020 12:38:18 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2202. Succesfull file transfer
+Filename: Informe.pdf
+File size: 504790 bytes
+Transfer time: 1seconds
+Oct 07, 2020 12:38:19 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2199. Succesfull file transfer
+Filename: Informe.pdf
+File size: 504790 bytes
+Transfer time: 1seconds
+Oct 07, 2020 12:38:19 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2206
+Oct 07, 2020 12:38:19 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2203. Succesfull file transfer
+Filename: Informe.pdf
+File size: 504790 bytes
+Transfer time: 0seconds
+Oct 07, 2020 12:38:19 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2205. Client is ready for file tranfer.
+Oct 07, 2020 12:38:19 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2205. Starting to send file Informe.pdf
+Oct 07, 2020 12:38:19 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2206. Client is ready for file tranfer.
+Oct 07, 2020 12:38:19 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2206. Starting to send file Informe.pdf
+Oct 07, 2020 12:38:19 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2207
+Oct 07, 2020 12:38:19 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2205. Finished to send file Informe.pdf
+Oct 07, 2020 12:38:19 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2206. Finished to send file Informe.pdf
+Oct 07, 2020 12:38:19 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2208
+Oct 07, 2020 12:38:19 AM server.TCPServerPool run
+WARNING: CLIENT: /181.61.206.244:2204. Unsuccesfull file transfer.
+Oct 07, 2020 12:38:20 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2207. Client is ready for file tranfer.
+Oct 07, 2020 12:38:20 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2207. Starting to send file Informe.pdf
+Oct 07, 2020 12:38:20 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2208. Client is ready for file tranfer.
+Oct 07, 2020 12:38:20 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2208. Starting to send file Informe.pdf
+Oct 07, 2020 12:38:20 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2209
+Oct 07, 2020 12:38:20 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2207. Finished to send file Informe.pdf
+Oct 07, 2020 12:38:20 AM server.TCPServerPool run
+WARNING: CLIENT: /181.61.206.244:2205. Unsuccesfull file transfer.
+Oct 07, 2020 12:38:20 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2208. Finished to send file Informe.pdf
+Oct 07, 2020 12:38:20 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2212
+Oct 07, 2020 12:38:20 AM server.TCPServerPool run
+WARNING: CLIENT: /181.61.206.244:2206. Unsuccesfull file transfer.
+Oct 07, 2020 12:38:20 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2209. Client is ready for file tranfer.
+Oct 07, 2020 12:38:20 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2209. Starting to send file Informe.pdf
+Oct 07, 2020 12:38:20 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2213
+Oct 07, 2020 12:38:20 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2212. Client is ready for file tranfer.
+Oct 07, 2020 12:38:20 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2212. Starting to send file Informe.pdf
+Oct 07, 2020 12:38:20 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2209. Finished to send file Informe.pdf
+Oct 07, 2020 12:38:21 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2212. Finished to send file Informe.pdf
+Oct 07, 2020 12:38:21 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2214
+Oct 07, 2020 12:38:21 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2217
+Oct 07, 2020 12:38:21 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2214. Client is ready for file tranfer.
+Oct 07, 2020 12:38:21 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2214. Starting to send file Informe.pdf
+Oct 07, 2020 12:38:21 AM server.TCPServerPool run
+WARNING: CLIENT: /181.61.206.244:2212. Unsuccesfull file transfer.
+Oct 07, 2020 12:38:21 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2213. Client is ready for file tranfer.
+Oct 07, 2020 12:38:21 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2213. Starting to send file Informe.pdf
+Oct 07, 2020 12:38:21 AM server.TCPServerPool run
+WARNING: CLIENT: /181.61.206.244:2207. Unsuccesfull file transfer.
+Oct 07, 2020 12:38:21 AM server.TCPServerPool run
+WARNING: CLIENT: /181.61.206.244:2208. Unsuccesfull file transfer.
+Oct 07, 2020 12:38:21 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2218
+Oct 07, 2020 12:38:21 AM server.TCPServerPool run
+WARNING: CLIENT: /181.61.206.244:2209. Unsuccesfull file transfer.
+Oct 07, 2020 12:38:21 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2213. Finished to send file Informe.pdf
+Oct 07, 2020 12:38:21 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2214. Finished to send file Informe.pdf
+Oct 07, 2020 12:38:22 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2217. Client is ready for file tranfer.
+Oct 07, 2020 12:38:22 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2217. Starting to send file Informe.pdf
+Oct 07, 2020 12:38:22 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2222
+Oct 07, 2020 12:38:22 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2218. Client is ready for file tranfer.
+Oct 07, 2020 12:38:22 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2218. Starting to send file Informe.pdf
+Oct 07, 2020 12:38:22 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2223
+Oct 07, 2020 12:38:22 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2218. Finished to send file Informe.pdf
+Oct 07, 2020 12:38:22 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2217. Finished to send file Informe.pdf
+Oct 07, 2020 12:38:22 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2222. Client is ready for file tranfer.
+Oct 07, 2020 12:38:22 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2222. Starting to send file Informe.pdf
+Oct 07, 2020 12:38:22 AM server.TCPServerPool run
+WARNING: CLIENT: /181.61.206.244:2213. Unsuccesfull file transfer.
+Oct 07, 2020 12:38:22 AM server.TCPServerPool run
+WARNING: CLIENT: /181.61.206.244:2214. Unsuccesfull file transfer.
+Oct 07, 2020 12:38:22 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2227
+Oct 07, 2020 12:38:22 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2223. Client is ready for file tranfer.
+Oct 07, 2020 12:38:22 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2223. Starting to send file Informe.pdf
+Oct 07, 2020 12:38:23 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2222. Finished to send file Informe.pdf
+Oct 07, 2020 12:38:23 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2227. Client is ready for file tranfer.
+Oct 07, 2020 12:38:23 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2227. Starting to send file Informe.pdf
+Oct 07, 2020 12:38:23 AM server.TCPServerPool run
+WARNING: CLIENT: /181.61.206.244:2217. Unsuccesfull file transfer.
+Oct 07, 2020 12:38:23 AM server.TCPServerPool run
+WARNING: CLIENT: /181.61.206.244:2218. Unsuccesfull file transfer.
+Oct 07, 2020 12:38:23 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2228
+Oct 07, 2020 12:38:23 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2223. Finished to send file Informe.pdf
+Oct 07, 2020 12:38:23 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2227. Finished to send file Informe.pdf
+Oct 07, 2020 12:38:23 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2229
+Oct 07, 2020 12:38:23 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2228. Client is ready for file tranfer.
+Oct 07, 2020 12:38:23 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2228. Starting to send file Informe.pdf
+Oct 07, 2020 12:38:23 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2229. Client is ready for file tranfer.
+Oct 07, 2020 12:38:23 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2229. Starting to send file Informe.pdf
+Oct 07, 2020 12:38:23 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:2230
+Oct 07, 2020 12:38:23 AM server.TCPServerPool run
+WARNING: CLIENT: /181.61.206.244:2227. Unsuccesfull file transfer.
+Oct 07, 2020 12:38:24 AM server.TCPServerPool run
+WARNING: CLIENT: /181.61.206.244:2222. Unsuccesfull file transfer.
+Oct 07, 2020 12:38:24 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2228. Finished to send file Informe.pdf
+Oct 07, 2020 12:38:24 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2230. Client is ready for file tranfer.
+Oct 07, 2020 12:38:24 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2230. Starting to send file Informe.pdf
+Oct 07, 2020 12:38:24 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2229. Finished to send file Informe.pdf
+Oct 07, 2020 12:38:24 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2230. Finished to send file Informe.pdf
+Oct 07, 2020 12:38:24 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2229. Succesfull file transfer
+Filename: Informe.pdf
+File size: 504790 bytes
+Transfer time: 0seconds
+Oct 07, 2020 12:38:24 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2223. Succesfull file transfer
+Filename: Informe.pdf
+File size: 504790 bytes
+Transfer time: 1seconds
+Oct 07, 2020 12:38:24 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2230. Succesfull file transfer
+Filename: Informe.pdf
+File size: 504790 bytes
+Transfer time: 0seconds
+Oct 07, 2020 12:38:25 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:2228. Succesfull file transfer
+Filename: Informe.pdf
+File size: 504790 bytes
+Transfer time: 1seconds

@@ -1,0 +1,335 @@
+Oct 07, 2020 1:07:39 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:3262
+Oct 07, 2020 1:07:39 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:3263
+Oct 07, 2020 1:07:39 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3262. Client is ready for file tranfer.
+Oct 07, 2020 1:07:39 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3263. Client is ready for file tranfer.
+Oct 07, 2020 1:07:40 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:3200
+Oct 07, 2020 1:07:40 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3200. Client is ready for file tranfer.
+Oct 07, 2020 1:07:40 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:3201
+Oct 07, 2020 1:07:40 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:3202
+Oct 07, 2020 1:07:40 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3201. Client is ready for file tranfer.
+Oct 07, 2020 1:07:40 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:3203
+Oct 07, 2020 1:07:40 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3202. Client is ready for file tranfer.
+Oct 07, 2020 1:07:40 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3262. Starting to send file torta.mkv
+Oct 07, 2020 1:07:40 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3263. Starting to send file torta.mkv
+Oct 07, 2020 1:07:40 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3200. Starting to send file torta.mkv
+Oct 07, 2020 1:07:40 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3202. Starting to send file torta.mkv
+Oct 07, 2020 1:07:40 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3201. Starting to send file torta.mkv
+Oct 07, 2020 1:07:41 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3203. Client is ready for file tranfer.
+Oct 07, 2020 1:07:41 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3203. Starting to send file torta.mkv
+Oct 07, 2020 1:07:41 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:3206
+Oct 07, 2020 1:07:41 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:3207
+Oct 07, 2020 1:07:41 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3206. Client is ready for file tranfer.
+Oct 07, 2020 1:07:41 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3206. Starting to send file torta.mkv
+Oct 07, 2020 1:07:42 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3207. Client is ready for file tranfer.
+Oct 07, 2020 1:07:42 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3207. Starting to send file torta.mkv
+Oct 07, 2020 1:07:42 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:3209
+Oct 07, 2020 1:07:42 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3209. Client is ready for file tranfer.
+Oct 07, 2020 1:07:42 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3209. Starting to send file torta.mkv
+Oct 07, 2020 1:07:42 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:3210
+Oct 07, 2020 1:07:42 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3210. Client is ready for file tranfer.
+Oct 07, 2020 1:07:42 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3210. Starting to send file torta.mkv
+Oct 07, 2020 1:07:42 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:3214
+Oct 07, 2020 1:07:43 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3214. Client is ready for file tranfer.
+Oct 07, 2020 1:07:43 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3214. Starting to send file torta.mkv
+Oct 07, 2020 1:07:43 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:3215
+Oct 07, 2020 1:07:43 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:3217
+Oct 07, 2020 1:07:43 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3215. Client is ready for file tranfer.
+Oct 07, 2020 1:07:43 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3215. Starting to send file torta.mkv
+Oct 07, 2020 1:07:43 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:3223
+Oct 07, 2020 1:07:43 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3217. Client is ready for file tranfer.
+Oct 07, 2020 1:07:43 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3217. Starting to send file torta.mkv
+Oct 07, 2020 1:07:44 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3223. Client is ready for file tranfer.
+Oct 07, 2020 1:07:44 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3223. Starting to send file torta.mkv
+Oct 07, 2020 1:07:44 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:3224
+Oct 07, 2020 1:07:44 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:3225
+Oct 07, 2020 1:07:44 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3224. Client is ready for file tranfer.
+Oct 07, 2020 1:07:44 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3224. Starting to send file torta.mkv
+Oct 07, 2020 1:07:44 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:3226
+Oct 07, 2020 1:07:45 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3225. Client is ready for file tranfer.
+Oct 07, 2020 1:07:45 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3225. Starting to send file torta.mkv
+Oct 07, 2020 1:07:45 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3226. Client is ready for file tranfer.
+Oct 07, 2020 1:07:45 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3226. Starting to send file torta.mkv
+Oct 07, 2020 1:07:45 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:3228
+Oct 07, 2020 1:07:45 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:3230
+Oct 07, 2020 1:07:45 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3228. Client is ready for file tranfer.
+Oct 07, 2020 1:07:45 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3228. Starting to send file torta.mkv
+Oct 07, 2020 1:07:45 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3230. Client is ready for file tranfer.
+Oct 07, 2020 1:07:45 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3230. Starting to send file torta.mkv
+Oct 07, 2020 1:07:46 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:3233
+Oct 07, 2020 1:07:46 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:3234
+Oct 07, 2020 1:07:46 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3233. Client is ready for file tranfer.
+Oct 07, 2020 1:07:46 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3233. Starting to send file torta.mkv
+Oct 07, 2020 1:07:46 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:3232
+Oct 07, 2020 1:07:47 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3234. Client is ready for file tranfer.
+Oct 07, 2020 1:07:47 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3234. Starting to send file torta.mkv
+Oct 07, 2020 1:07:47 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:3236
+Oct 07, 2020 1:07:47 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:3245
+Oct 07, 2020 1:07:47 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3236. Client is ready for file tranfer.
+Oct 07, 2020 1:07:47 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3236. Starting to send file torta.mkv
+Oct 07, 2020 1:07:48 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3232. Client is ready for file tranfer.
+Oct 07, 2020 1:07:48 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3232. Starting to send file torta.mkv
+Oct 07, 2020 1:07:48 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:3235
+Oct 07, 2020 1:07:48 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3245. Client is ready for file tranfer.
+Oct 07, 2020 1:07:48 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3245. Starting to send file torta.mkv
+Oct 07, 2020 1:07:48 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:3246
+Oct 07, 2020 1:07:48 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:3249
+Oct 07, 2020 1:07:48 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3235. Client is ready for file tranfer.
+Oct 07, 2020 1:07:48 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3235. Starting to send file torta.mkv
+Oct 07, 2020 1:07:48 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:3250
+Oct 07, 2020 1:07:49 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:3255
+Oct 07, 2020 1:07:49 AM server.TCPServerPool <init>
+INFO: Connected to: /181.61.206.244:3204
+Oct 07, 2020 1:30:06 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3233. Finished to send file torta.mkv
+Oct 07, 2020 1:30:16 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3233. Succesfull file transfer
+Filename: torta.mkv
+File size: 231537562 bytes
+Transfer time: 1349seconds
+Oct 07, 2020 1:30:20 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3210. Finished to send file torta.mkv
+Oct 07, 2020 1:30:29 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3210. Succesfull file transfer
+Filename: torta.mkv
+File size: 231537562 bytes
+Transfer time: 1367seconds
+Oct 07, 2020 1:31:26 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3201. Finished to send file torta.mkv
+Oct 07, 2020 1:31:30 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3201. Succesfull file transfer
+Filename: torta.mkv
+File size: 231537562 bytes
+Transfer time: 1429seconds
+Oct 07, 2020 1:31:32 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3230. Finished to send file torta.mkv
+Oct 07, 2020 1:31:36 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3230. Succesfull file transfer
+Filename: torta.mkv
+File size: 231537562 bytes
+Transfer time: 1431seconds
+Oct 07, 2020 1:32:11 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3202. Finished to send file torta.mkv
+Oct 07, 2020 1:32:18 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3202. Succesfull file transfer
+Filename: torta.mkv
+File size: 231537562 bytes
+Transfer time: 1477seconds
+Oct 07, 2020 1:32:18 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3226. Finished to send file torta.mkv
+Oct 07, 2020 1:32:22 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3226. Succesfull file transfer
+Filename: torta.mkv
+File size: 231537562 bytes
+Transfer time: 1477seconds
+Oct 07, 2020 1:33:10 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3228. Finished to send file torta.mkv
+Oct 07, 2020 1:33:15 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3228. Succesfull file transfer
+Filename: torta.mkv
+File size: 231537562 bytes
+Transfer time: 1529seconds
+Oct 07, 2020 1:33:44 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3215. Finished to send file torta.mkv
+Oct 07, 2020 1:33:49 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3215. Succesfull file transfer
+Filename: torta.mkv
+File size: 231537562 bytes
+Transfer time: 1565seconds
+Oct 07, 2020 1:34:03 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3206. Finished to send file torta.mkv
+Oct 07, 2020 1:34:08 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3206. Succesfull file transfer
+Filename: torta.mkv
+File size: 231537562 bytes
+Transfer time: 1586seconds
+Oct 07, 2020 1:34:10 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3245. Finished to send file torta.mkv
+Oct 07, 2020 1:34:15 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3245. Succesfull file transfer
+Filename: torta.mkv
+File size: 231537562 bytes
+Transfer time: 1587seconds
+Oct 07, 2020 1:34:35 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3214. Finished to send file torta.mkv
+Oct 07, 2020 1:34:41 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3214. Succesfull file transfer
+Filename: torta.mkv
+File size: 231537562 bytes
+Transfer time: 1618seconds
+Oct 07, 2020 1:34:58 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3263. Finished to send file torta.mkv
+Oct 07, 2020 1:35:08 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3263. Succesfull file transfer
+Filename: torta.mkv
+File size: 231537562 bytes
+Transfer time: 1647seconds
+Oct 07, 2020 1:35:15 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3203. Finished to send file torta.mkv
+Oct 07, 2020 1:35:25 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3203. Succesfull file transfer
+Filename: torta.mkv
+File size: 231537562 bytes
+Transfer time: 1664seconds
+Oct 07, 2020 1:35:49 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3224. Finished to send file torta.mkv
+Oct 07, 2020 1:35:57 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3224. Succesfull file transfer
+Filename: torta.mkv
+File size: 231537562 bytes
+Transfer time: 1692seconds
+Oct 07, 2020 1:36:23 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3232. Finished to send file torta.mkv
+Oct 07, 2020 1:36:27 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3235. Finished to send file torta.mkv
+Oct 07, 2020 1:36:28 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3232. Succesfull file transfer
+Filename: torta.mkv
+File size: 231537562 bytes
+Transfer time: 1720seconds
+Oct 07, 2020 1:36:34 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3235. Succesfull file transfer
+Filename: torta.mkv
+File size: 231537562 bytes
+Transfer time: 1725seconds
+Oct 07, 2020 1:36:41 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3200. Finished to send file torta.mkv
+Oct 07, 2020 1:36:47 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3200. Succesfull file transfer
+Filename: torta.mkv
+File size: 231537562 bytes
+Transfer time: 1746seconds
+Oct 07, 2020 1:37:16 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3217. Finished to send file torta.mkv
+Oct 07, 2020 1:37:23 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3209. Finished to send file torta.mkv
+Oct 07, 2020 1:37:27 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3209. Succesfull file transfer
+Filename: torta.mkv
+File size: 231537562 bytes
+Transfer time: 1785seconds
+Oct 07, 2020 1:37:29 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3225. Finished to send file torta.mkv
+Oct 07, 2020 1:37:33 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3217. Succesfull file transfer
+Filename: torta.mkv
+File size: 231537562 bytes
+Transfer time: 1790seconds
+Oct 07, 2020 1:37:35 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3225. Succesfull file transfer
+Filename: torta.mkv
+File size: 231537562 bytes
+Transfer time: 1790seconds
+Oct 07, 2020 1:37:52 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3262. Finished to send file torta.mkv
+Oct 07, 2020 1:37:56 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3262. Succesfull file transfer
+Filename: torta.mkv
+File size: 231537562 bytes
+Transfer time: 1815seconds
+Oct 07, 2020 1:38:02 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3223. Finished to send file torta.mkv
+Oct 07, 2020 1:38:04 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3207. Finished to send file torta.mkv
+Oct 07, 2020 1:38:05 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3223. Succesfull file transfer
+Filename: torta.mkv
+File size: 231537562 bytes
+Transfer time: 1821seconds
+Oct 07, 2020 1:38:08 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3207. Succesfull file transfer
+Filename: torta.mkv
+File size: 231537562 bytes
+Transfer time: 1826seconds
+Oct 07, 2020 1:38:14 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3234. Finished to send file torta.mkv
+Oct 07, 2020 1:38:20 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3234. Succesfull file transfer
+Filename: torta.mkv
+File size: 231537562 bytes
+Transfer time: 1832seconds
+Oct 07, 2020 1:40:19 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3236. Finished to send file torta.mkv
+Oct 07, 2020 1:40:31 AM server.TCPServerPool run
+INFO: CLIENT: /181.61.206.244:3236. Succesfull file transfer
+Filename: torta.mkv
+File size: 231537562 bytes
+Transfer time: 1963seconds
