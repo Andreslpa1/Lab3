@@ -125,6 +125,7 @@ public class TCPServerPool implements Runnable{
 					monitor.wait();
 				}
 			}
+			nClients.addAndGet(-1);
 			startTime = System.currentTimeMillis();
 			LOGGER.log(Level.INFO, "CLIENT: " + socketClient.getRemoteSocketAddress() + ". Starting to send file " + filename);
 			sendFile(filename);
@@ -137,6 +138,7 @@ public class TCPServerPool implements Runnable{
 			}else {
 				LOGGER.log(Level.WARNING, "CLIENT: " + socketClient.getRemoteSocketAddress() + ". Unsuccesfull file transfer.");
 			}
+			
 
 
 		} catch (IOException e) {

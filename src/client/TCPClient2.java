@@ -31,7 +31,7 @@ public class TCPClient2 extends Thread {
 	private String filename;
 	
 	public static final int PORT = 3030;
-	public static final String SERVER = "localhost";
+	public static final String SERVER = "34.207.184.135";
 
 	private static final String READY = "ready";
 
